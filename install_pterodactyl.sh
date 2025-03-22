@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "=== Installation propre de Pterodactyl Panel + Wings + PhpMyAdmin ==="
 
 # 1. Mise à jour du système
